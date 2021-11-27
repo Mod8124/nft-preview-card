@@ -39,7 +39,6 @@ main {
     width: 350px;
     margin:0 auto;
     padding:30px ;
-    height: 66vh;
     background-color: var(--VeryDarkblue);
     overflow: hidden;
     border-radius: 25px;
